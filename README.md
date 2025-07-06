@@ -14,13 +14,14 @@ A professional-grade desktop application inspired by BookMyShow, developed using
 
 🎟️ Seat and food selection module with seat-type categorization
 
+📩 HTML-based dynamic welcome email on successful registration
+
 🧾 Automatic GST calculation and billing summary
 
 💻 Real-time MySQL backend updates for user and booking data
 
 ![seat_type_png](https://github.com/user-attachments/assets/b799589b-6e1f-4774-9d89-477bda067722)
 
-📩 HTML-based dynamic welcome email on successful registration
 
 Technologies Used
 
