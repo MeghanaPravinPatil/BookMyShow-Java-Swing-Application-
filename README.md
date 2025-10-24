@@ -1,6 +1,8 @@
 * Project Overview
 
 A professional-grade desktop application inspired by BookMyShow, developed using Java Swing (JDK 8). The application features secure email authentication, robust MySQL integration via JDBC, dynamic and interactive UI components.
+
+
  Key Features : 
  * User registration and login with real-time form validation
  * Email verification using the JavaMail API
