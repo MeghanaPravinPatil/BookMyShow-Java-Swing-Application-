@@ -25,11 +25,18 @@ A professional-grade desktop application inspired by BookMyShow, developed using
 ![seat_type_png](https://github.com/user-attachments/assets/b799589b-6e1f-4774-9d89-477bda067722)
 
 
+
 Technologies Used
 
+
 Java (JDK 8) : GUI development using Java Swing
+
 MySQL : Backend relational database
+
 JDBC : Java-MySQL database connectivity
+
 JavaMail API : Sending HTML-based emails
+
 HTML/CSS : Styling email templates
+
 
